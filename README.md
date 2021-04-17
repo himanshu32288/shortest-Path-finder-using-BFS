@@ -1,2 +1,3 @@
 # shortest-Path-finder-using-BFS
-easy project
+Path finder using bfs html/css/javascript
+
