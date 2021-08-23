@@ -18,7 +18,7 @@ function setup() {
 
             if ((count != 253 && count != 269)) {//creating wall or removing wall except start node and end node
 
-                node.onmouseclick = function () {
+                node.onclick = function () {
                     clicked(this.id);
                 }
             }
